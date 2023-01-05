@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /assets/
+Sitemap: https://amyar24.com/sitemap.xml
